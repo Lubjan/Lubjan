@@ -1,4 +1,4 @@
-<h2 align="left">ello' there, i'm maurice</h1>
+<h2 align="left">ello' there</h1>
 <h4 align="left">I'm a dev. I do mostly frontend stuff, backend as well but not nearly as often. Oh I also develop resources for FiveM servers from time to time and MC plugins in TypeScript (using <a href="https://github.com/astorks/ScriptableMC-Engine">SMC</a>)</h3>
 
 🔭 I’m currently working on: a lot of things.
