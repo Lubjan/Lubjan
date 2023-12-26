@@ -1,23 +1,14 @@
 <h2 align="left">ello' there</h1>
-<h4 align="left">I'm a dev. I do mostly frontend stuff, backend as well but not nearly as often. Oh I also develop resources for FiveM servers from time to time and MC plugins</h3>
-
-🔭 I’m currently working on: a lot of things.
+<h4 align="left">I'm a dev. I mostly do frontend dev, backend as well but not nearly as frequent. Also some other things.</h3>
 
 🧰 I specialize in: Angular
 
-📫 How to reach me: create an issue on my profile LUL
+📫 How to reach me: don't
 
 ⚡ Fun fact: I like bugfixing
 
 <details>
   <summary> </summary>
-  
-  <h4 align="left">selected platforms i'm on</h3>
-  <p align="left">
-  <a href="https://codepen.io/lubjan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="lubjan" height="30" width="40" /></a>
-  <a href="https://dribbble.com/lubjan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="lubjan" height="30" width="40" /></a>
-  </p>
-
   <h4 align="left">languages and tools</h3>
   <p align="left">
     <a href="https://angular.io" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40"/> </a>
